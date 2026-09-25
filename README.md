@@ -8,7 +8,7 @@ Welcome to my GitHub! I'm a beginner Python developer with a strong focus on cle
 
 | Category | Tools |
 | --- | --- |
-| **Languages** | Python (main) |
+| **Languages** | Python (main), HTML |
 | **OS & Env** | Windows |
 | **Editor** | Visual Studio Code |
 
