@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi! I'm 21L21
 
-<!--
-**21L21/21L21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub! I'm a beginner Python developer with a strong focus on clean architecture and efficient code. Always eager to learn, contribute to open-source, and solve interesting problems.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+
+| Category | Tools |
+| --- | --- |
+| **Languages** | Python (main) |
+| **OS & Env** | Windows |
+| **Editor** | Visual Studio Code |
+
+---
+
+## 📂 Projects
+
+
+
+---
+
+## 💬 Let’s Connect
+
+- ✉️ Email: kent017.crr@gmail.com
+
