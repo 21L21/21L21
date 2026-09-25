@@ -10,7 +10,7 @@ Welcome to my GitHub! I'm a beginner Python developer with a strong focus on cle
 | --- | --- |
 | **Languages** | Python (main), HTML |
 | **OS & Env** | Windows |
-| **Editor** | Visual Studio Code |
+| **Editor** | Visual Studio Code, LazyVim |
 
 ---
 
